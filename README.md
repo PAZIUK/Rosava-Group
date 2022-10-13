@@ -1,11 +1,10 @@
 # Rosava-Group - Project Description <br>
 
+### About  <br>
+Rosava group is a rapidly growing company located in Chicagoland area, operating in 48 states with more then 20 trucks. <br/>
 The website was created by Serhiy Paziuk and Stanislav Kovalchuk (https://github.com/Stanislavkvv) for Rosava Group. <br/>
 
-## About  <br>
-Rosava group is a rapidly growing company located in Chicagoland area, operating in 48 states with more then 20 trucks.
-
-### For creating were used <br/>
+## For creating were used <br/>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3)
