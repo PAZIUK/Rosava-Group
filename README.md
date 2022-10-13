@@ -2,8 +2,8 @@
 
 The website was created by Serhiy Paziuk and Stanislav Kovalchuk (https://github.com/Stanislavkvv) for Rosava Group. <br/>
 
-## About : <br>
-
+## About  <br>
+Rosava group is a rapidly growing company located in Chicagoland area, operating in 48 states with more then 20 trucks.
 
 ### For creating were used: <br/>
 
