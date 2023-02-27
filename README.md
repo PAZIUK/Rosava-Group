@@ -6,7 +6,7 @@ Rosava group is a rapidly growing company located in Chicagoland area, operating
 
 The website was created by Serhiy Paziuk and [Stanislav Kovalchuk](https://github.com/Stanislavkvv) for Rosava Group. <br/>
 
-### Link to the website you can find [here](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#my-projects)<br/>
+### Link to the website you can find [here](https://github.com/PAZIUK#-websites)<br/>
 
 ## For creating were used <br/>
 
